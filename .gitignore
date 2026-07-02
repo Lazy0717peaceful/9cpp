@@ -1,0 +1,6 @@
+*~
+*.o
+tmp*
+a.out
+9cpp
+.DS_Store
